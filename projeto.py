@@ -1,4 +1,2 @@
-import pandas as pd 
-
-df = pd.read_csv("gastos planilha.csv")
-print(df)
+import tkinter as tk 
+import sqlite3
